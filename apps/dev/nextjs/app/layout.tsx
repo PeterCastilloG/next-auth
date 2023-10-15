@@ -3,6 +3,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  console.log("holaaa")
   return (
     <html>
       <head></head>
